@@ -6,12 +6,7 @@ The real and imaginary precision part should be correct up to two decimal places
 Input Format: One line of input: The real and imaginary part of a number separated by a space. 
 
 Output Format: For two complex numbers and the output should be in the following sequence on separate lines:  
-C + D 
-C - D 
-C * D 
-C / D 
-mod(C) 
-mod(D)  
+C+D, C-D, C*D, C/D, mod(C), mod(D).  
 
 For complex numbers with non-zero real and imaginary part, the output should be in the following format:    
 A + Bi 
